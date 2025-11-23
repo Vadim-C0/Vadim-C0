@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<h1 align="center">Hi, I'm Vadim 👋</h1>
+<p align="center">
+  Developer | AI Enthusiast | Python & JavaScript Lover
+</p>
 
-<!--
-**Vadim-C0/Vadim-C0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a developer skilled in **HTML, CSS, JavaScript, and Python**, with a strong interest in **AI and Generative AI**.  
+I enjoy creating intelligent systems and building meaningful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎧 Current Project
+### **Mood-Based Music Recommendation Bot**
+A smart bot that **detects a user’s mood** and **generates a matching music track** using AI-driven emotion recognition and generative audio models.
+
+---
+
+## 🔧 Tech Stack
+
+### **Languages & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### **AI / ML Interests**
+<p align="left">
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-7A1FA2?style=for-the-badge&logo=spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects (Pinned)
+
+### 🔹 **Mood-Based Music Bot**  
+🎧 *AI-powered system detecting emotions & generating music*  
+👉 *Link:* `https://github.com/Vadim-C0/mood-music-bot`
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vadim-C0&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-C0&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Interests
+- 🤖 Artificial Intelligence  
+- 🧠 Generative AI  
+- 🏋️ Sports  
+- 🎵 Music  
+- 🎬 Movies  
+
+---
+
+## 📫 Contact  
+Feel free to reach out for collaboration or AI-related discussions.
+
+---
