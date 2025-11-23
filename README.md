@@ -64,5 +64,19 @@ A smart bot that **detects a user’s mood** and **generates a matching music tr
 
 ## 📫 Contact  
 Feel free to reach out for collaboration or AI-related discussions.
+<p align="left">
 
+<a href="https://www.linkedin.com/in/vadim-gladyshev-591103298/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/Vadim1547371/" target="_blank">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/vadim135791/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
 ---
