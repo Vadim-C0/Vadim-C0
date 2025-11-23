@@ -1,13 +1,13 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi, I'm Vadim 👋</h1>
 <p align="center">
-  Developer | AI Enthusiast | Python & JavaScript Lover
+  Engineer | Developer | AI Enthusiast | Python & JavaScript Lover
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm a developer skilled in **HTML, CSS, JavaScript, and Python**, with a strong interest in **AI and Generative AI**.  
+I'm an engineer and developer skilled in **HTML, CSS, JavaScript, and Python**, with a strong interest in **AI and Generative AI**.  
 I enjoy creating intelligent systems and building meaningful digital experiences.
 
 ---
