@@ -41,7 +41,7 @@ A smart bot that **detects a user’s mood** and **generates a matching music tr
 
 ### 🔹 **Mood-Based Music Bot**  
 🎧 *AI-powered system detecting emotions & generating music*  
-👉 *Link:* `https://github.com/Vadim-C0/mood-music-bot`
+👉 *Link:* `https://mumoy-app.onrender.com`
 
 ---
 
